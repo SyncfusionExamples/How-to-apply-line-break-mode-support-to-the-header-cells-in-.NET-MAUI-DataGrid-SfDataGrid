@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:syncfusion="clr-namespace:Syncfusion.Maui.DataGrid;assembly=Syncfusion.Maui.DataGrid"
+             x:Class="SfDataGridSample.MainPage">
+
+    <ContentPage.Content>
+        <syncfusion:SfDataGrid x:Name="sfdatagrid" 
+                               ItemsSource="{Binding Employees}"
+                               AutoGenerateColumnsMode="None">
+
+            <syncfusion:SfDataGrid.Columns>
+                <syncfusion:DataGridTextColumn MappingName="EmployeeID" HeaderText="Employee ID" HeaderLineBreakMode="TailTruncation" />
+                <syncfusion:DataGridTextColumn MappingName="Name" HeaderText="Name"/>
+                <syncfusion:DataGridTextColumn MappingName="Gender" HeaderText="Gender"/>
+                <syncfusion:DataGridTextColumn MappingName="MaritalStatus" HeaderText="Marital Status" HeaderLineBreakMode="TailTruncation"/>
+            </syncfusion:SfDataGrid.Columns>
+            
+            
+        </syncfusion:SfDataGrid>
+    </ContentPage.Content>
+
+
+</ContentPage>

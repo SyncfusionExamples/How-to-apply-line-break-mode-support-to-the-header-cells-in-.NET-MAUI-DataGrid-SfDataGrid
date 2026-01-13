@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KB\\SfDataGridSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B585BC-DBB1-B117-556B-10C6D4759823}|SfDataGridSample\\SfDataGridSample.csproj|d:\\kb\\sfdatagridsample\\sfdatagridsample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21B585BC-DBB1-B117-556B-10C6D4759823}|SfDataGridSample\\SfDataGridSample.csproj|solutionrelative:sfdatagridsample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B585BC-DBB1-B117-556B-10C6D4759823}|SfDataGridSample\\SfDataGridSample.csproj|d:\\kb\\sfdatagridsample\\sfdatagridsample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B585BC-DBB1-B117-556B-10C6D4759823}|SfDataGridSample\\SfDataGridSample.csproj|solutionrelative:sfdatagridsample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B585BC-DBB1-B117-556B-10C6D4759823}|SfDataGridSample\\SfDataGridSample.csproj|d:\\kb\\sfdatagridsample\\sfdatagridsample\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B585BC-DBB1-B117-556B-10C6D4759823}|SfDataGridSample\\SfDataGridSample.csproj|solutionrelative:sfdatagridsample\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\KB\\SfDataGridSample\\SfDataGridSample\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SfDataGridSample\\MainPage.xaml",
+              "ToolTip": "D:\\KB\\SfDataGridSample\\SfDataGridSample\\MainPage.xaml",
+              "RelativeToolTip": "SfDataGridSample\\MainPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T05:03:19.206Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{13b29bd0-3807-335c-9cad-ba55364c29cb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5da8d69b-058a-4294-a87a-f4f7ae2983b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\KB\\SfDataGridSample\\SfDataGridSample\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SfDataGridSample\\MainPage.xaml.cs",
+              "ToolTip": "D:\\KB\\SfDataGridSample\\SfDataGridSample\\MainPage.xaml.cs",
+              "RelativeToolTip": "SfDataGridSample\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:06:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\KB\\SfDataGridSample\\SfDataGridSample\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "SfDataGridSample\\MauiProgram.cs",
+              "ToolTip": "D:\\KB\\SfDataGridSample\\SfDataGridSample\\MauiProgram.cs",
+              "RelativeToolTip": "SfDataGridSample\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:05:51.125Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 823,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
